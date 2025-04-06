@@ -1,0 +1,35 @@
+id: rf-00-dojo
+
+name: 00: Initial Stuff
+
+type: hidden
+
+modules:
+
+  - import:
+      dojo: computing-101
+      module: your-first-program
+
+  - import:
+      dojo: computing-101
+      module: introspecting
+
+  - import:
+      dojo: computing-101
+      module: memory
+
+  - import:
+      dojo: computing-101
+      module: hello-hackers
+
+  - import:
+      dojo: computing-101
+      module: assembly-crash-course
+
+  - import:
+      dojo: computing-101
+      module: debugging-refresher
+
+  - import:
+      dojo: computing-101
+      module: building-a-web-server
