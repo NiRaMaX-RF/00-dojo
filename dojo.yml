@@ -5,6 +5,11 @@ name: "00: Initial Stuff"
 modules:
 
   - import:
+      dojo: pwntools~9b09c9dc
+      module: pwntools
+      name: "Optional: Pwntools"
+
+  - import:
       dojo: computing-101
       module: your-first-program
 
