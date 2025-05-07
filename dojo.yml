@@ -7,7 +7,7 @@ modules:
   - import:
       dojo: pwntools~9b09c9dc
       module: pwntools
-      name: "Optional: Pwntools"
+    name: "Optional: Pwntools"
 
   - import:
       dojo: computing-101
